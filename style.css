@@ -565,10 +565,12 @@
     
     @media (max-width:500px) {
         .home .text-two {
-            font-size: 45px;
+            font-size: 35px;
         }
         .home .text-three {
-            font-size: 33px;
+            font-size: 28px;
+            width: 250px;
+    word-wrap: break-word;
         }
         .skills-details .boxes .per {
             font-size: 50px;
